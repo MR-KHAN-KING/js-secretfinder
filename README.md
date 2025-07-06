@@ -20,3 +20,10 @@ A lightweight, domain-aware JavaScript secret scanner that detects:
 
 ```bash
 pip install -r requirements.txt
+
+
+Usage
+
+bash jsrecon.sh
+# OR
+python3 lite_secretfinder.py -u https://target.com/script.js
